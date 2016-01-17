@@ -2,16 +2,17 @@
 <html>
 <meta charset="utf-8">
 <head>
+ <title>Remove The Wrench | Changing the world!</title>
 <style>
 body {background-color:black}
 h1 {color:red}
 </style>
-  <title>Remove The Wrench | Changing the world!</title>
+ </head>  
 <body>
 <script>
   window.alert("Welcome, thank you for joining me!");
 </script>
   <h1>I Love to Learn</h1>
 </body>
-</head>  
+
   
